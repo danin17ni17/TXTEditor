@@ -1,0 +1,26 @@
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\obj\Debug\MyRedacher.Properties.Resources.resources
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\obj\Debug\MyRedacher.csproj.GenerateResource.Cache
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\bin\Debug\MyRedacher.exe
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\bin\Debug\MyRedacher.pdb
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\obj\Debug\MyRedacher.exe
+C:\Users\Даниил\Desktop\myC#\mEdit\mEdit\obj\Debug\MyRedacher.pdb
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\bin\Debug\MyRedacher.exe
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\bin\Debug\MyRedacher.pdb
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.Form1.resources
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.Form2.resources
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.Properties.Resources.resources
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.csproj.GenerateResource.Cache
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.exe
+C:\Users\Даниил\Desktop\myC#\MyRedacher\MyRedacher\obj\Debug\MyRedacher.pdb
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.exe
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.pdb
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\bin\Debug\MyRedacher.exe
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\bin\Debug\MyRedacher.pdb
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.csprojResolveAssemblyReference.cache
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.Form1.resources
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.Form2.resources
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.Properties.Resources.resources
+C:\Users\DT01\Documents\Visual Studio 2012\Projects\MyRedacher\MyRedacher\obj\Debug\MyRedacher.csproj.GenerateResource.Cache
